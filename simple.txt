@@ -1,5 +1,5 @@
-<<<<<<< HEAD
+
 hello world!
-=======
+
 hello this is my simple text file
->>>>>>> 29a7787a5d33738fdfa36ffd1fb6c3462ad30607
+ 
